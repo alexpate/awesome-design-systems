@@ -2,8 +2,7 @@
 
 > ⚒ A curated list of awesome design systems, pattern libraries, and everything inbetween
 
-
-- [Shopify Polaris](https://polaris.shopify.com) - *[View source](https://github.com/Shopify/polaris)*
+- [Shopify Polaris](https://polaris.shopify.com)
 - [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new)
 - [Atlassian Design Language](https://atlassian.design)
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
@@ -13,6 +12,16 @@
 - [Sky Toolkit](https://www.sky.com/toolkit)
 - [Pivotal](http://styleguide.pivotal.io/)
 - [Office UI Fabric](https://dev.office.com/fabric)
+- [IBM Carbon](http://carbondesignsystem.com/)
+- [Intuit Harmony](http://harmony.intuit.com/)
+- [Cloudflare](https://cloudflare.github.io/cf-ui/)
+- [Marvel Styleguide](https://marvelapp.com/styleguide)
+
+---
+
+### Note
+
+Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
 
 ---
 ### Contributions
