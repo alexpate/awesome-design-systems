@@ -17,9 +17,8 @@
 - [Cloudflare](https://cloudflare.github.io/cf-ui/)
 - [Marvel Styleguide](https://marvelapp.com/styleguide)
 
----
 
-### Note
+#### Note
 
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
 
