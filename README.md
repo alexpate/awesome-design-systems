@@ -4,14 +4,11 @@
 
 #### Categorisation
 
+- 🗣 = Voice & Tone
+- ⚒ = Components
+- 🎨 = Sketch UI Kit
 
-```
-🗣 (Voice & Tone)
-⚒ (UI Components)
-🎨 (Sketch UI Kit)
-```
-
-
+- - -
 
 - [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 🎨
 - [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) ⚒
