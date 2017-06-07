@@ -23,7 +23,7 @@
 - [Sky Toolkit](https://www.sky.com/toolkit) ⚒
 - [Pivotal](http://styleguide.pivotal.io/) ⚒
 - [Office UI Fabric](https://dev.office.com/fabric) ⚒
-- [IBM Carbon](http://carbondesignsystem.com/) ⚒ 🎨
+- [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 🎨
 - [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
 - [Marvel Styleguide](https://marvelapp.com/styleguide) ⚒
