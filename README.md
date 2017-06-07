@@ -29,6 +29,7 @@
 - [Mailchimp Patterns](http://ux.mailchimp.com/patterns) ⚒
 - [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
 - [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
+- [Blueprint](http://blueprintjs.com/) ⚒ 🎨
 
 #### Note
 
