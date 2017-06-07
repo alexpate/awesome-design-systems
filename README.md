@@ -36,6 +36,8 @@
 - [Blueprint](http://blueprintjs.com/) ⚒ 🎨
 - [Google Material Design](https://material.io/) 🗣 ⚒
 - [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 🎨
+- [GitHub Primer](http://primercss.io/) ⚒
+- [BuzzFeed Solid](http://solid.buzzfeed.com/) ⚒ 🎨
 
 ***Note***
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
