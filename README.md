@@ -25,6 +25,10 @@
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
 - [Marvel Styleguide](https://marvelapp.com/styleguide) ⚒
 - [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
+- [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) 🗣
+- [Mailchimp Patterns](http://ux.mailchimp.com/patterns) ⚒
+- [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
+- [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
 
 #### Note
 
