@@ -1,13 +1,15 @@
-# Awesome Design Systems [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Design Systems
 
-> ⚒ A curated list of awesome design systems, pattern libraries, and everything inbetween
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-#### Categorisation
+> ⚒ A curated list of awesome design systems, pattern libraries, and everything inbetween. Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls), or open an [issue](https://github.com/alexpate/awesome-design-systems/issues/new).
 
-- 🗣 = Voice & Tone
-- ⚒ = Components
-- 🎨 = Sketch UI Kit
-- 📓 = Storybook
+#### Categories
+
+- 🗣 Voice & Tone
+- ⚒ Components
+- 🎨 Sketch UI Kit
+- 📓 Storybook
 
 - - -
 
@@ -34,10 +36,5 @@
 - [Blueprint](http://blueprintjs.com/) ⚒ 🎨
 - [Google Material Design](https://material.io/) 🗣 ⚒
 
-#### Note
-
+***Note***
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
-
----
-### Contributions
-Know a resource that isn't listed above? Contributions are more than welcome!
