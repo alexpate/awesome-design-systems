@@ -35,6 +35,7 @@
 - [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
 - [Blueprint](http://blueprintjs.com/) ⚒ 🎨
 - [Google Material Design](https://material.io/) 🗣 ⚒
+- [U.S. Web Design Standards](https://standards.usa.gov/) ⚒
 
 ***Note***
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
