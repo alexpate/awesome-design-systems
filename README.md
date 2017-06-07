@@ -7,12 +7,13 @@
 - 🗣 = Voice & Tone
 - ⚒ = Components
 - 🎨 = Sketch UI Kit
+- 📓 = Storybook
 
 - - -
 
 - [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 🎨
 - [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) ⚒
-- [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨
+- [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨 📓
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) 🗣 ⚒ 🎨
 - [Pusher Chameleon](http://pusher.github.io/chameleon/) ⚒
 - [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
