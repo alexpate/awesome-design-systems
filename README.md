@@ -24,7 +24,7 @@
 - [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
 - [Marvel Styleguide](https://marvelapp.com/styleguide) ⚒
-
+- [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
 
 #### Note
 
