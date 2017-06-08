@@ -15,8 +15,10 @@
 
 - [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨 📓
 - [Blueprint](http://blueprintjs.com/) ⚒ 🎨
+- [BuzzFeed Solid](http://solid.buzzfeed.com/) ⚒ 🎨
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
 - [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
+- [GitHub Primer](http://primercss.io/) ⚒
 - [Google Material Design](https://material.io/) 🗣 ⚒
 - [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 🎨
 - [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
