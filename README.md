@@ -13,30 +13,33 @@
 
 - - -
 
-- [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 🎨
-- [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) ⚒
 - [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨 📓
-- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) 🗣 ⚒ 🎨
-- [Pusher Chameleon](http://pusher.github.io/chameleon/) ⚒
-- [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
-- [Lost My Name Design System](http://design-system.lostmy.name/) ⚒
-- [Sky Toolkit](https://www.sky.com/toolkit) ⚒
-- [Pivotal](http://styleguide.pivotal.io/) ⚒
-- [Office UI Fabric](https://dev.office.com/fabric) ⚒
-- [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 🎨
-- [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
+- [Blueprint](http://blueprintjs.com/) ⚒ 🎨
+- [BuzzFeed Solid](http://solid.buzzfeed.com/) ⚒ 🎨
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
-- [Marvel Styleguide](https://marvelapp.com/styleguide) ⚒
-- [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
+- [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
+- [GitHub Primer](http://primercss.io/) ⚒
+- [Google Material Design](https://material.io/) 🗣 ⚒
+- [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 🎨
+- [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
+- [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
+- [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
+- [Lost My Name Design System](http://design-system.lostmy.name/) ⚒
 - [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) 🗣
 - [Mailchimp Patterns](http://ux.mailchimp.com/patterns) ⚒
-- [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
-- [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
-- [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
-- [Blueprint](http://blueprintjs.com/) ⚒ 🎨
-- [Google Material Design](https://material.io/) 🗣 ⚒
-- [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 🎨
+- [Marvel Styleguide](https://marvelapp.com/styleguide) ⚒
+- [Microsoft Fluent](http://fluent.microsoft.com/) 📓 
+- [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) ⚒
 - [nib Health Funds](https://design.nib.com.au/) ⚒
+- [Office UI Fabric](https://dev.office.com/fabric) ⚒
+- [Pivotal](http://styleguide.pivotal.io/) ⚒
+- [Pusher Chameleon](http://pusher.github.io/chameleon/) ⚒
+- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) 🗣 ⚒ 🎨
+- [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 🎨
+- [Sky Toolkit](https://www.sky.com/toolkit) ⚒
+- [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 🎨
+- [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
+- [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
 
 ***Note***
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
