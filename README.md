@@ -40,6 +40,9 @@
 - [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 🎨
 - [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
 - [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
+- [Hewlett Packard grommet](https://grommet.github.io) ⚒ 
+- [SAP Fiori](https://experience.sap.com/fiori-design/) ⚒ 
+
 
 ***Note***
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
