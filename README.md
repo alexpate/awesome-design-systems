@@ -14,6 +14,16 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - 📓 Storybook
 - - -
 
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| [Alibaba Ant Design](https://ant.design) | 🗣 ⚒ 🎨 📓 |
+| [Atlassian Design Language](https://atlassian.design) | 🗣 ⚒ 🎨 📓 |
+| [Blueprint](http://blueprintjs.com/) | ⚒ 🎨 |
+| [BuzzFeed Solid](http://solid.buzzfeed.com/) | ⚒ 🎨 |
+| [Cloudflare](https://cloudflare.github.io/cf-ui/) | ⚒ |
+
+
 - [Alibaba Ant Design](https://ant.design) 🗣 ⚒ 🎨 📓
 - [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨 📓
 - [Blueprint](http://blueprintjs.com/) ⚒ 🎨
