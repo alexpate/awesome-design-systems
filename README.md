@@ -8,7 +8,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - - -
 
 
-| Link  | Components | Voice & Tone | UI Kit | Storybook |
+|    | Components | Voice & Tone | UI Kit | Storybook |
 | ----- | ---------- | ------------ | ------ | --------- |
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
