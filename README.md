@@ -8,23 +8,23 @@
 
 - 🗣 Voice & Tone
 - ⚒ Components
-- 🎨 Sketch UI Kit
+- 💎 Sketch UI Kit
 - 📓 Storybook
 
 - - -
 
-- [Alibaba Ant Design](https://ant.design) 🗣 ⚒ 🎨 📓
-- [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 🎨 📓
-- [Blueprint](http://blueprintjs.com/) ⚒ 🎨
-- [BuzzFeed Solid](http://solid.buzzfeed.com/) ⚒ 🎨
+- [Alibaba Ant Design](https://ant.design) 🗣 ⚒ 💎 📓
+- [Atlassian Design Language](https://atlassian.design) 🗣 ⚒ 💎 📓
+- [Blueprint](http://blueprintjs.com/) ⚒ 💎
+- [BuzzFeed Solid](http://solid.buzzfeed.com/) ⚒ 💎
 - [Cloudflare](https://cloudflare.github.io/cf-ui/) ⚒
-- [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 🎨
+- [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) 🗣 ⚒ 💎
 - [GitHub Primer](http://primercss.io/) ⚒
 - [Google Material Design](https://material.io/) 🗣 ⚒
 - [Hewlett Packard grommet](https://grommet.github.io) ⚒
-- [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 🎨
+- [IBM Carbon](http://carbondesignsystem.com/) 🗣 ⚒ 💎
 - [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
-- [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
+- [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 💎
 - [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
 - [Louder Than Ten Manual](http://manual.louderthanten.com/) 🗣 ⚒
 - [Lost My Name Design System](http://design-system.lostmy.name/) ⚒
@@ -37,13 +37,13 @@
 - [Office UI Fabric](https://dev.office.com/fabric) ⚒
 - [Pivotal](http://styleguide.pivotal.io/) ⚒
 - [Pusher Chameleon](http://pusher.github.io/chameleon/) ⚒
-- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) 🗣 ⚒ 🎨
+- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) 🗣 ⚒ 💎
 - [SAP Fiori](https://experience.sap.com/fiori-design/) ⚒
-- [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 🎨
+- [Shopify Polaris](https://polaris.shopify.com) 🗣 ⚒ 💎
 - [Sky Toolkit](https://www.sky.com/toolkit) ⚒
-- [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 🎨
-- [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 🎨
-- [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
+- [U.S. Web Design Standards](https://standards.usa.gov/) ⚒ 💎
+- [VMware Clarity Design System](https://vmware.github.io/clarity/) ⚒ 💎
+- [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 💎
 
 
 ***Note***
