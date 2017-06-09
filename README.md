@@ -1,16 +1,17 @@
-# Awesome Design Systems
+![cover](/cover.png)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
-> ⚒ A curated list of awesome design systems, pattern libraries, and everything inbetween. Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls), or open an [issue](https://github.com/alexpate/awesome-design-systems/issues/new).
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls), or open an [issue](https://github.com/alexpate/awesome-design-systems/issues/new).
 
-#### Categories
+- - -
+#### Tags
 
 - 🗣 Voice & Tone
 - ⚒ Components
 - 🎨 Sketch UI Kit
 - 📓 Storybook
-
 - - -
 
 - [Alibaba Ant Design](https://ant.design) 🗣 ⚒ 🎨 📓
@@ -46,5 +47,8 @@
 - [Yelp Styleguide](http://yelp.com/styleguide) ⚒ 🎨
 
 
-***Note***
+### Notes
 Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
+
+### Credits
+Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project
