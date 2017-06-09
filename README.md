@@ -33,7 +33,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) |  | 👍 |  |  |
 | [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  |
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
-| [Microsoft Fluent](http://fluent.microsoft.com/) |  |  |  | 👍 |
+| [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
