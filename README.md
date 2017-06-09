@@ -15,8 +15,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - - -
 
 
-| Tables        | Are           |
-| ------------- |:-------------:|
+| Link        | Tags |
+| ------------- |-------------|
 | [Alibaba Ant Design](https://ant.design) | 🗣 ⚒ 🎨 📓 |
 | [Atlassian Design Language](https://atlassian.design) | 🗣 ⚒ 🎨 📓 |
 | [Blueprint](http://blueprintjs.com/) | ⚒ 🎨 |
