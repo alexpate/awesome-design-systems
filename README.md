@@ -10,6 +10,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 - 🗣 Voice & Tone
 - ⚒ Components
+- 📊 Charting Guidance
 - 🎨 Sketch UI Kit
 - 📓 Storybook
 - - -
@@ -27,7 +28,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [IBM Design Language](https://www.ibm.com/design/language/) 🗣 ⚒
 - [Intuit Harmony](http://harmony.intuit.com/) 🗣 ⚒ 🎨
 - [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) ⚒
-- [Louder Than Ten Manual](http://manual.louderthanten.com/) 🗣 ⚒
+- [Louder Than Ten Manual](http://manual.louderthanten.com/) 🗣 ⚒ 📊
 - [Lost My Name Design System](http://design-system.lostmy.name/) ⚒
 - [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) 🗣
 - [Mailchimp Patterns](http://ux.mailchimp.com/patterns) ⚒
