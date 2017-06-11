@@ -16,6 +16,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 |    | Components | Voice & Tone | Designers Kit | Storybook |
 | ----- | ---------- | ------------ | ------ | --------- |
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
+| [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  |
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
