@@ -6,7 +6,7 @@
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/alexpate/awesome-design-systems/pulls), or open an [issue](https://github.com/alexpate/awesome-design-systems/issues/new).
 
 - - -
-### Tags: testeetetet
+### Tags: angesian
 - Components: Contains coded patterns and examples.
 - Voice & Tone: Provides guidance on how language should be used.
 - Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
