@@ -18,7 +18,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  |
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
-| [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 | 👍 | 👍 |  |
+| [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
