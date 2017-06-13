@@ -45,6 +45,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
+| [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 |  |  |
