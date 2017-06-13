@@ -49,7 +49,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
-| [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 |  |  |
+| [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
 
