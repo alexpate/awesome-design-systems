@@ -40,6 +40,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
+| [Palantir Blueprint ](http://blueprintjs.com/) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
