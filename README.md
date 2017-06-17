@@ -52,6 +52,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
+| [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
