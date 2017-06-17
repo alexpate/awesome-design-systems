@@ -30,6 +30,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
+| [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
 | [Intuit Harmony](http://harmony.intuit.com/) | 👍 | 👍 | 👍 |  |
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/) | 👍 |  |  |  |
 | [Louder Than Ten Manual](http://manual.louderthanten.com/) | 👍 | 👍 |  |  |
