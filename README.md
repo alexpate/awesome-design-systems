@@ -29,6 +29,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
 | [Google Material Design](https://material.io/) | 👍 | 👍 |  |  |
+| [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
