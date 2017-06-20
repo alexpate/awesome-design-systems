@@ -46,6 +46,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
+| [Now UI Kit](http://demos.creative-tim.com/now-ui-kit/index.html) | 👍 |  | 👍 |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
