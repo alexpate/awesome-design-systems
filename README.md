@@ -31,7 +31,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
-| [Google Material Design](https://material.io/) | 👍 | 👍 |  |  |
+| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
