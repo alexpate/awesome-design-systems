@@ -25,12 +25,14 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
+| [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
-| [Google Material Design](https://material.io/) | 👍 | 👍 |  |  |
+| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
+| [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
@@ -46,6 +48,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
+| [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
@@ -59,6 +62,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
+| [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
