@@ -64,6 +64,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
+| [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
