@@ -65,6 +65,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
+| [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
 
 
