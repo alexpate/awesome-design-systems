@@ -30,6 +30,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
+| [GE Predix](https://www.predix-ui.com/) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
 | [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
