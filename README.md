@@ -30,6 +30,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
+| [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
 | [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
@@ -50,6 +51,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
+| [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
@@ -65,7 +67,10 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
+| [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
+| [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
+| [WeWork Plasma](https://weconnect.github.io/plasma/docs/) | 👍 |  |  |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
 
 
