@@ -53,6 +53,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
+| [Nutanix Prism](http://nutanix.design) | 👍 |  |  |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
