@@ -71,7 +71,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
-| [WeWork Plasma](https://weconnect.github.io/plasma/docs/) | 👍 |  |  |  |
+| [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
 
 
