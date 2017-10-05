@@ -29,6 +29,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
+| [Dubizzle](http://dubizzle.uno/) | 👍 | 👍 |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
