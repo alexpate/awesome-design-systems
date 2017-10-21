@@ -59,6 +59,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
+| [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
