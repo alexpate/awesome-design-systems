@@ -73,7 +73,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
-| [U.S. CMS.gov Design System](https://standards.usa.gov/) | 👍 |  |  |  |
+| [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  |
 | [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
 | [VMware Clarity Design System](https://vmware.github.io/clarity/) | 👍 | 👍 | 👍 |  |
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
