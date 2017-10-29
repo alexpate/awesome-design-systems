@@ -12,10 +12,10 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Components: Contains coded patterns and examples.
 - Voice & Tone: Provides guidance on how language should be used.
 - Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
-- Storybook: Provides components with relevant stories for React Storybook.
+- Open Source: Is the design system available for general use? 
 - - -
 
-|    | Components | Voice & Tone | Designers Kit | Storybook |
+|    | Components | Voice & Tone | Designers Kit | Open Source |
 | ----- | ---------- | ------------ | ------ | --------- |
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 |
@@ -27,15 +27,15 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
-| [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
+| [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  | 👍 |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
-| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
+| [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  | 👍 |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
-| [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
+| [GitHub Primer](http://primercss.io/) | 👍 |  |  | 👍 |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
-| [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
+| [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  | 👍 |
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
@@ -51,7 +51,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  |
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
-| [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
+| [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  | 👍 |
 | [Mozilla Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
@@ -63,7 +63,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Predix Design System](https://wwww.predix-ui.com/) | 👍 |  |👍 |  |
-| [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
+| [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  | 👍 |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
