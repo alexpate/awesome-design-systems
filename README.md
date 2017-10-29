@@ -61,6 +61,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
+| [Predix Design System](https://wwww.predix-ui.com/) | 👍 |  |👍 |  |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
