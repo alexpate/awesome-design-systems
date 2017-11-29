@@ -72,6 +72,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
 | [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
+| [Spectre](https://picturepan2.github.io/spectre/) | 👍 |  |  |  |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
 | [Trello - Nachos](https://design.trello.com) | 👍 |  | 👍 |  |
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
