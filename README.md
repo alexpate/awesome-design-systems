@@ -24,6 +24,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
+| [Bootstrap](http://getbootstrap.com/) | 👍 |  |  |  |
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
@@ -41,6 +42,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
+| [HTML5-UP!](https://html5up.net) | 👍 |  |  |  |
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
@@ -66,6 +68,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Predix Design System](https://www.predix-ui.com/) | 👍 |  |👍 |  |
+| [Primefaces](https://www.primefaces.org) | 👍 |  |  |  |
 | [Pusher Chameleon](http://pusher.github.io/chameleon/) | 👍 |  |  |  |
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/) | 👍 |  |  | 👍 |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) | 👍 | 👍 | 👍 |  |
