@@ -60,6 +60,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
 | [Nutanix Prism](http://nutanix.design) | 👍 |  |  |  |
 | [Office UI Fabric](https://dev.office.com/fabric) | 👍 |  |  |  |
+| [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
