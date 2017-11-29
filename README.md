@@ -32,6 +32,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee) | 👍 | 👍 | 👍 |  |
+| [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  |  |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
@@ -53,7 +54,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
-| [Mozilla Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
