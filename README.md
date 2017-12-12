@@ -53,6 +53,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mailchimp Content Styleguide](http://styleguide.mailchimp.com/) |  | 👍 |  |  |
 | [Mailchimp Patterns](http://ux.mailchimp.com/patterns) | 👍 |  |  |  |
 | [Marvel Styleguide](https://marvelapp.com/styleguide) | 👍 |  |  |  |
+| [Mesosphere CNVS](http://mesosphere.github.io/cnvs/) | 👍 |  |  |  |
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
