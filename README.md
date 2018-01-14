@@ -80,6 +80,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Trello - Nachos](https://design.trello.com) | 👍 |  | 👍 |  |
 | [Ubuntu Brand Guidelines](http://design.ubuntu.com/)| 👍 | 👍 |  |  |
 | [USPTO UI Design Library](http://uspto.github.io/designpatterns/index.html) | 👍 |  | 👍 |  |
+| [uSwitch style guide](https://ustyle.guide/) | 👍 | 👍 |  |  |
 | [U.S. Web Design Standards](https://standards.usa.gov/) | 👍 | 👍 | 👍 |  |
 | [U.S. CMS.gov Design System](https://design.cms.gov/) | 👍 |  |  |  |
 | [VMware {code}](https://code.vmware.com/) | 👍 |  |  |  |
