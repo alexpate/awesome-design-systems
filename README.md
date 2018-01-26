@@ -24,6 +24,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
+| [eBay Skin](https://ebay.github.io/skin/) | 👍 | | | |
 | [Enigma Boundless](https://boundless.js.org/) | 👍 |  |  |  |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/) | 👍 |  | 👍 |  |
 | [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  |
