@@ -31,6 +31,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
 | [City of Boston Fleet](https://cob-patterns-staging.herokuapp.com) | 👍 |  |  |  |
+| [Code School](https://www.codeschool.com/styleguide) | 👍 |  |  |  |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design) | 👍 |  | 👍 |  |
