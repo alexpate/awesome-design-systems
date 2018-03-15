@@ -78,7 +78,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [SAP Fiori](https://experience.sap.com/fiori-design/) | 👍 |  |  |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/) | 👍 |  |  |  |
 | [Shopify Polaris](https://polaris.shopify.com) | 👍 | 👍 | 👍 |  |
-| [Stack Exchange: Stacks UI](http://stackexchange.github.io/stacks-ui/) | 👍 |  |  |  |
+| [Stack Exchange: Stacks UI](https://stackoverflow.design/) | 👍 |  |  |  |
 | [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/) | 👍 |  |  |  |
 | [Sky Toolkit](https://www.sky.com/toolkit) | 👍 |  |  |  |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/) | 👍 |  |  |  |
