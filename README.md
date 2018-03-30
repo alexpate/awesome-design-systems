@@ -69,6 +69,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Opattern](https://ux.opower.com/opattern) | 👍 | 👍 |  |  |
 | [Oracle Alta UI](http://www.oracle.com/webfolder/ux/middleware/alta/index.html) | 👍 |  |  |  |
 | [PatternFly Open Interface Project](https://www.patternfly.org/) | 👍 | 👍 |  |  |
+| [Pinterest Gestalt](https://github.com/pinterest/gestalt) | 👍 |  |  | 👍 |
 | [Pivotal](http://styleguide.pivotal.io/) | 👍 |  |  |  |
 | [Pluralsight Design System](http://design-system.pluralsight.com/) | 👍 |  |  | 👍 |
 | [Predix Design System](https://www.predix-ui.com/) | 👍 | 👍 | 👍 |  |
