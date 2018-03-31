@@ -31,7 +31,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [CA Technologies Mineral UI](http://mineral-ui.com/) | 👍 |  |  |  |
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui) | 👍 | 👍 | 👍 | 👍 |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/) | 👍 |  |  |  |
-| [City of Boston Fleet](https://patterns.boston.gov/) | 👍 |  |  |  |
+| [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet) | 👍 | 👍 |  |  |
 | [Code School](https://www.codeschool.com/styleguide) | 👍 |  |  |  |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/) | 👍 | 👍 | 👍 |  |
 | [Dropbox Scooter](http://dropbox.github.io/scooter/) | 👍 |  |  |  |
