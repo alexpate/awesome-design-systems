@@ -46,6 +46,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
 | [Hewlett Packard grommet](https://grommet.github.io) | 👍 |  |  |  |
 | [HubSpot Canvas](https://canvas.hubspot.com/) | 👍 | 👍 |  |  |
+| [Hudl Design System](http://uniform.hudl.com) | 👍 | 👍 |  |  |
 | [IBM Carbon](http://carbondesignsystem.com/) | 👍 | 👍 | 👍 |  |
 | [IBM Design Language](https://www.ibm.com/design/language/) | 👍 | 👍 |  |  |
 | [IBM Northstar](https://www.ibm.com/standards/web/) | 👍 | 👍 |  |  |
@@ -62,7 +63,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Microsoft Fluent](http://fluent.microsoft.com/) | 👍 |  | 👍 |  |
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [MongoDB Design System](http://mongodb.design) | 👍 |  | 👍 |  |
-| [Monzo Tone of Voice](https://monzo.com/tone-of-voice/) |  | 👍 |  |  |
+| [Monzo Tone of Voice](https://monzo.com/tone-of-voice/) |  | 👍 |  |  | 
+| [Morningstar Design System](http://designsystem.morningstar.com/components/cards.html) | 👍 | 👍 |  |  | 
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
