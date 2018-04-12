@@ -64,7 +64,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new) | 👍 |  |  |  |
 | [MongoDB Design System](http://mongodb.design) | 👍 |  | 👍 |  |
 | [Monzo Tone of Voice](https://monzo.com/tone-of-voice/) |  | 👍 |  |  | 
-| [Moningstar Design System](http://designsystem.morningstar.com/components/cards.html) | 👍 | 👍 |  |  | 
+| [Morningstar Design System](http://designsystem.morningstar.com/components/cards.html) | 👍 | 👍 |  |  | 
 | [NHS.UK Service Manual (Alpha)](http://www.nhs.uk/transformation/manual/) | 👍 | 👍 |  |  |
 | [nib Health Funds](https://design.nib.com.au/) | 👍 |  |  |  |
 | [Nordnet](https://www.nordnet.se/brand/) | 👍 | 👍 |  | 👍 |
