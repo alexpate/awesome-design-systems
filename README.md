@@ -98,6 +98,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [VMware UI Pattern Library](http://ui-patterns.vmware.com/) | 👍 |  | 👍 |  |
 | [WeWork Plasma](http://plasma.guide) | 👍 |  |  |  |
 | [Yelp Styleguide](http://yelp.com/styleguide) | 👍 | 👍 |  |  |
+| [Zendesk Garden](https://garden.zendesk.com/) | 👍 |  |  | 👍 |
 
 
 ### Notes
