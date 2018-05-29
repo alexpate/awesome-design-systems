@@ -23,6 +23,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Artsy Reaction](https://artsy.github.io/reaction/) | 👍 | | | |
 | [Atlassian Design Language](https://atlassian.design) | 👍 | 👍 | 👍 | 👍 |
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html) | 👍 |  | 👍 |  |
+| [Backpack (Skyscanner)](https://backpack.github.io/) | 👍 |  | 👍 |  |
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel) | 👍 | 👍 | 👍 |  |
 | [Blueprint](http://blueprintjs.com/) | 👍 |  | 👍 |  |
 | [eBay Skin](https://ebay.github.io/skin/) | 👍 | | | |
