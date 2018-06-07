@@ -17,6 +17,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 |    | Components | Voice & Tone | Designers Kit | Storybook |
 | ----- | ---------- | ------------ | ------ | --------- |
+| [Alfa-Bank](https://design.alfabank.ru) | 👍 |  | 👍 | 👍 |
 | [Alibaba Ant Design](https://ant.design) | 👍 | 👍 | 👍 | 👍 |
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/) | 👍 |  |  | 👍 |
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/) |  |  | 👍 |  |
