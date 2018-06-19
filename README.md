@@ -42,7 +42,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Firefox Photon Design System](http://design.firefox.com/photon) | 👍 | 👍 | 👍 |  |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library) | 👍 |  |  |  |
 | [GitHub Primer](http://primercss.io/) | 👍 |  |  | 👍 |
-| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 |  |  |
+| [Google Material Design](https://material.io/guidelines/#introduction-goals) | 👍 | 👍 | 👍 |  |
 | [GOV.UK Service Manual](https://www.gov.uk/service-manual) | 👍 |  |  |  |
 | [Help Scout](http://style.helpscout.com/) | 👍 | 👍 |  |  |
 | [Heroku Purple3](https://purple3.herokuapp.com/) | 👍 |  |  |  |
