@@ -14,11 +14,11 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Components: Contains coded patterns and examples.
 - Voice & Tone: Provides guidance on how language should be used.
 - Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
-- Open Source: Publically viewable source (\*)
+- Source code: Publically viewable source code
 
 ---
 
-|                                                                                                   | Components | Voice & Tone | Designers Kit | Open source \*                                                       |
+|                                                                                                   | Components | Voice & Tone | Designers Kit | Source code \*                                                       |
 | ------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------------- | -------------------------------------------------------------------- |
 | [Alfa-Bank](https://design.alfabank.ru)                                                           | 👍         |              | 👍            | [:octocat:](https://github.com/alfa-laboratory/arui-feather)         |
 | [Alibaba Ant Design](https://ant.design)                                                          | 👍         | 👍           | 👍            | [:octocat:](https://github.com/ant-design/ant-design/)               |
