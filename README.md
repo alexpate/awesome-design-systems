@@ -109,6 +109,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [VMware Clarity Design System](https://vmware.github.io/clarity/)                                 | 👍         | 👍           | 👍            | [:octocat:](https://github.com/vmware/clarity)                       |
 | [VTEX Styleguide](http://styleguide.vtex.com/)                                                    | 👍         |              | 👍            | [:octocat:](https://github.com/vtex/styleguide)                      |
 | [WeWork Plasma](http://plasma.guide)                                                              | 👍         |              |               |                                                                      |
+| [Workday Canvas](https://design.workday.com/)                                                     | 👍         | 👍              |               |                                                                      |
 | [Yelp Styleguide](http://yelp.com/styleguide)                                                     | 👍         | 👍           |               |                                                                      |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                     | 👍         |              |               | [:octocat:](https://github.com/zendeskgarden)                        |
 
