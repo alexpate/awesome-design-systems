@@ -93,6 +93,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Rambler](https://rambler-digital-solutions.github.io/rambler-ui/)                                | 👍         |              |               | [:octocat:](https://github.com/rambler-digital-solutions/rambler-ui) |
 | [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)                       | 👍         | 👍           | 👍            | [:octocat:](https://github.com/salesforce-ux/design-system)          |
 | [SAP Fiori](https://experience.sap.com/fiori-design/)                                             | 👍         |              |               |                                                                      |
+| [SAP Fundamental](https://github.com/SAP/fundamental)                                             | 👍         |              |               |[:octocat:](https://github.com/SAP/fundamental)|
+| [SAP OpenUI](https://github.com/SAP/openui5)                                             | 👍         |              |               |[:octocat:](https://github.com/SAP/openui5)|
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/)                                  | 👍         |              |               | [:octocat:](https://github.com/seek-oss/seek-style-guide)            |
 | [Shopify Polaris](https://polaris.shopify.com)                                                    | 👍         | 👍           | 👍            | [:octocat:](https://github.com/Shopify/polaris)                      |
 | [Stack Exchange: Stacks UI](https://stackoverflow.design/)                                        | 👍         |              |               | [:octocat:](https://github.com/StackExchange/Stacks)                 |
