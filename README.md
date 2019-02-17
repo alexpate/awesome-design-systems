@@ -8,7 +8,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 ---
 
-### Tags:
+### Tags
 
 - Components: Contains coded patterns and examples.
 - Voice & Tone: Provides guidance on how language should be used.
@@ -18,7 +18,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ---
 
 |                                                                                                   | Components | Voice & Tone | Designers Kit | Source code \*                                                       |
-| ------------------------------------------------------------------------------------------------- | ---------- | ------------ | ------------- | -------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :------------------------------------------------------------------: |
 | [Alfa-Bank](https://design.alfabank.ru)                                                           | 👍         |              | 👍            | [:octocat:](https://github.com/alfa-laboratory/arui-feather)         |
 | [Alibaba Ant Design](https://ant.design)                                                          | 👍         | 👍           | 👍            | [:octocat:](https://github.com/ant-design/ant-design/)               |
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/)                                          | 👍         |              |               | [:octocat:](https://github.com/appearhere/bloom)                     |
