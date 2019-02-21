@@ -102,7 +102,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Seeds](https://sproutsocial.com/seeds)                                  |          | 👍             | 👍              |  |
 | [SEEK Style Guide](https://seek-oss.github.io/seek-style-guide/)                                  | 👍         |              |               | [:octocat:](https://github.com/seek-oss/seek-style-guide)            |
 | [Shopify Polaris](https://polaris.shopify.com)                                                    | 👍         | 👍           | 👍            | [:octocat:](https://github.com/Shopify/polaris)                      |
-| [Stack Exchange: Stacks UI](https://stackoverflow.design/)                                        | 👍         |              |               | [:octocat:](https://github.com/StackExchange/Stacks)                 |
+| [Stacks – Stack Overflow](https://stackoverflow.design/)                                        | 👍         | 👍           |               | [:octocat:](https://github.com/StackExchange/Stacks)                 |
 | [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/)                   | 👍         |              |               |                                                                      |
 | [Sky Toolkit](https://www.sky.com/toolkit)                                                        | 👍         |              |               | [:octocat:](https://github.com/sky-uk/toolkit)                       |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/)                          | 👍         |              |               | [:octocat:](https://github.com/unimelb/unimelb-design-system)        |
