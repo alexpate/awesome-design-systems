@@ -44,6 +44,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                                 | 👍         |              |               | [:octocat:](https://github.com/cloudflare/cf-ui)                     |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)                        | 👍         | 👍           |               | [:octocat:](https://github.com/CityOfBoston/digital)                 |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                                  | 👍         | 👍           | 👍            | [:octocat:](https://github.com/coopdigital/design-system)            |
+| [Doric Design System Swift](https://github.com/jayeshk/Doric)                              | 👍         |👍              |               | [:octocat:](https://github.com/jayeshk/Doric)                        |
 | [Duolingo Design Guidelines](https://www.duolingo.com/design)                                     | 👍         |              | 👍            |                                                                      |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee)                                     | 👍         | 👍           | 👍            |                                                                      |
 | [Elastic UI Framework](https://elastic.github.io/eui/)                                            | 👍         | 👍           | 👍            | [:octocat:](https://github.com/elastic/eui)                         |
@@ -120,6 +121,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                                     | 👍         | 👍              |               |                                                                      |
 | [Yelp Styleguide](http://yelp.com/styleguide)                                                     | 👍         | 👍           |               |                                                                      |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                     | 👍         |              |               | [:octocat:](https://github.com/zendeskgarden)                        |
+
 
 ### Notes
 
