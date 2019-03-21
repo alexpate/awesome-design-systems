@@ -122,6 +122,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [WeWork Plasma](http://plasma.guide)                                                   |     👍     |              |               |                                                                              |
 | [Workday Canvas](https://design.workday.com/)                                          |     👍     |      👍      |               |                                                                              |
 | [Yelp Styleguide](http://yelp.com/styleguide)                                          |     👍     |      👍      |               |                                                                              |
+| [ZEIT](https://zeit.co/design)                                                         |     👍     |              |               |                [:octocat:](https://github.com/zendeskgarden)                 |
 | [Zendesk Garden](https://garden.zendesk.com/)                                          |     👍     |              |               |                [:octocat:](https://github.com/zendeskgarden)                 |
 
 ### Notes
