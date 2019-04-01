@@ -24,17 +24,17 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Appear Here Styleguide](http://bloom.appearhere.co.uk/)                               |     👍     |              |               |               [:octocat:](https://github.com/appearhere/bloom)               |
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/)               |            |              |      👍       |                                                                              |
 | [Aragon UI](https://ui.aragon.org/)                                                    |     👍     |              |               |               [:octocat:](https://github.com/aragon/aragon-ui)               |
-| [Artsy Palette](https://palette.artsy.net/)                                    |     👍     |              |               |                [:octocat:](https://github.com/artsy/palette)                |
+| [Artsy Palette](https://palette.artsy.net/)                                            |     👍     |              |               |                [:octocat:](https://github.com/artsy/palette)                 |
 | [AT UIKIT](https://at-ui.github.io/at-ui/#/en)                                         |     👍     |              |               |                 [:octocat:](https://github.com/at-ui/at-ui)                  |
 | [Atlassian Design Guidelines](https://atlassian.design)                                |     👍     |      👍      |      👍       | [:space_invader:](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/) |
 | [Audi UI Kit](http://www.audi.com/ci/en/guides/user-interface/introduction.html)       |     👍     |              |      👍       |                 [:octocat:](https://github.com/audi/audi-ui)                 |
 | [Aurora (Government of Canada)](https://design.gccollab.ca/)                           |     👍     |      👍      |      👍       |        [:octocat:](https://github.com/gctools-outilsgc/design-system)        |
 | [Australian Government Design System](https://designsystem.gov.au/)                    |     👍     |              |               |       [:octocat:](https://github.com/govau/design-system-components/)        |
 | [Backpack (Skyscanner)](https://backpack.github.io/)                                   |     👍     |              |      👍       |             [:octocat:](https://github.com/skyscanner/backpack)              |
-| [Barnardo’s Design System](https://design-system.barnardos.org.uk)                     |     👍     |      👍      |               |             [:octocat:](https://github.com/barnardos/design-system)                |
+| [Barnardo’s Design System](https://design-system.barnardos.org.uk)                     |     👍     |      👍      |               |           [:octocat:](https://github.com/barnardos/design-system)            |
 | [Base UI](https://baseui.design)                                                       |     👍     |              |               |               [:octocat:](https://github.com/uber-web/baseui)                |
 | [BBC GEL (Global Experience Language)](http://www.bbc.co.uk/gel)                       |     👍     |      👍      |      👍       |                                                                              |
-| [BLiP](https://design.blip.ai/)                                                   |     👍     |              |             |              [:octocat:](https://github.com/takenet/blip-toolkit)              |
+| [BLiP](https://design.blip.ai/)                                                        |     👍     |              |               |             [:octocat:](https://github.com/takenet/blip-toolkit)             |
 | [Blueprint](http://blueprintjs.com/)                                                   |     👍     |              |      👍       |              [:octocat:](https://github.com/palantir/blueprint)              |
 | [Bulb Design System](http://design.bulb.co.uk/)                                        |     👍     |      👍      |               |                                                                              |
 | [BuzzFeed Solid](http://solid.buzzfeed.com/)                                           |     👍     |              |      👍       |                [:octocat:](https://github.com/buzzfeed/solid)                |
@@ -67,7 +67,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [IBM Northstar](https://www.ibm.com/standards/web/)                                    |     👍     |      👍      |               |                                                                              |
 | [Intuit Harmony](http://harmony.intuit.com/)                                           |     👍     |      👍      |      👍       |                                                                              |
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html)                       |     👍     |              |               |              [:octocat:](https://github.com/JetBrains/ring-ui)               |
-| [Kiwi.com Orbit](https://orbit.kiwi)                                               |     👍     |              |      👍       |          [:octocat:](https://github.com/kiwicom/orbit-components/)           |
+| [Kiwi.com Orbit](https://orbit.kiwi)                                                   |     👍     |              |      👍       |          [:octocat:](https://github.com/kiwicom/orbit-components/)           |
 | [Kontur](https://guides.kontur.ru/)                                                    |     👍     |              |               |                                                                              |
 | [Lexicon](https://lexicondesign.io/)                                                   |     👍     |      👍      |               |                                                                              |
 | [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/)                                  |     👍     |              |               |              [:octocat:](https://github.com/lonelyplanet/rizzo)              |
@@ -124,7 +124,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [WeWork Plasma](http://plasma.guide)                                                   |     👍     |              |               |                                                                              |
 | [Workday Canvas](https://design.workday.com/)                                          |     👍     |      👍      |               |                                                                              |
 | [Yelp Styleguide](http://yelp.com/styleguide)                                          |     👍     |      👍      |               |                                                                              |
-| [ZEIT](https://zeit.co/design)                                                         |     👍     |              |          |     | |
+| [ZEIT](https://zeit.co/design)                                                         |     👍     |              |               |                                                                              |  |
 | [Zendesk Garden](https://garden.zendesk.com/)                                          |     👍     |              |               |                [:octocat:](https://github.com/zendeskgarden)                 |
 
 ### Notes
