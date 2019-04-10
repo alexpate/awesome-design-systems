@@ -67,6 +67,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [IBM Northstar](https://www.ibm.com/standards/web/)                                    |     👍     |      👍      |               |                                                                              |
 | [Intuit Harmony](http://harmony.intuit.com/)                                           |     👍     |      👍      |      👍       |                                                                              |
 | [JetBrains Ring UI](http://www.jetbrains.org/ring-ui/index.html)                       |     👍     |              |               |              [:octocat:](https://github.com/JetBrains/ring-ui)               |
+| [Kalo UI](https://kalo.design)                       |     👍     |              |               |              [:octocat:](https://github.com/kalohq/ui)               |
 | [Kiwi.com Orbit](https://orbit.kiwi)                                                   |     👍     |              |      👍       |          [:octocat:](https://github.com/kiwicom/orbit-components/)           |
 | [Kontur](https://guides.kontur.ru/)                                                    |     👍     |              |               |                                                                              |
 | [Lexicon](https://lexicondesign.io/)                                                   |     👍     |      👍      |               |                                                                              |
