@@ -65,7 +65,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Heroku Purple3](https://design.herokai.com/)                                     |     👍     |              |               |                                                                                    |
 | [Hewlett Packard grommet](https://grommet.github.io)                              |     👍     |              |               |                  [:octocat:](https://github.com/grommet/grommet)                   |
 | [HubSpot Canvas](https://canvas.hubspot.com/)                                     |     👍     |      👍      |               |                   [:octocat:](https://github.com/HubSpot/canvas)                   |
-| [Hudl Design System](https://uniform.hudl.com/)                                   |     👍     |      👍      |               |                                                                                    |  | 👍 | 👍 |  |  |
+| [Hudl Design System](https://uniform.hudl.com/)                                   |     👍     |      👍      |               |                                                                                    |
 | [IBM Carbon](https://www.carbondesignsystem.com/)                                 |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/ibm/carbon-components)                |
 | [IBM Design Language](https://www.ibm.com/design/language/)                       |     👍     |      👍      |               |                                                                                    |
 | [IBM Northstar](https://www.ibm.com/standards/web/)                               |     👍     |      👍      |               |                                                                                    |
@@ -75,13 +75,13 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Kiwi.com Orbit](https://orbit.kiwi)                                              |     👍     |              |      👍       |             [:octocat:](https://github.com/kiwicom/orbit-components/)              |
 | [Kontur](https://guides.kontur.ru/)                                               |     👍     |              |      👍       |                [:octocat:](https://github.com/skbkontur/retail-ui/)                |
 | [Lexicon](https://lexicondesign.io/)                                              |     👍     |      👍      |               |                                                                                    |
-| [Lonely Planet Rizzo](https://rizzo.lonelyplanet.com/)                            |     👍     |              |               |                 [:octocat:](https://github.com/lonelyplanet/rizzo)                 |  | 👍 |  |  | [:octocat:](https://github.com/lonelyplanet/rizzo) |
+| [Lonely Planet Rizzo](https://rizzo.lonelyplanet.com/)                            |     👍     |              |               |                 [:octocat:](https://github.com/lonelyplanet/rizzo)                 |
 | [Louder Than Ten Manual](https://www.louderthanten.com/manual)                    |     👍     |      👍      |               |                                                                                    |
 | [Lost My Name Design System](http://design-system.lostmy.name/)                   |     👍     |              |               |                                                                                    |
 | [Mailchimp Content Styleguide](https://styleguide.mailchimp.com/)                 |            |      👍      |               |                                                                                    |
 | [Mailchimp Patterns](https://ux.mailchimp.com/patterns)                           |     👍     |              |               |                                                                                    |
 | [Marvel Styleguide](https://marvelapp.com/styleguide)                             |     👍     |              |               |                                                                                    |
-| [Mesosphere CNVS](https://mesosphere.github.io/cnvs/)                             |     👍     |              |               |                  [:octocat:](https://github.com/mesosphere/cnvs/)                  |  | 👍 |  |  | [:octocat:](https://github.com/mesosphere/cnvs/) |
+| [Mesosphere CNVS](https://mesosphere.github.io/cnvs/)                             |     👍     |              |               |                  [:octocat:](https://github.com/mesosphere/cnvs/)                  |
 | [Microsoft Fluent](https://www.microsoft.com/design/fluent/)                      |     👍     |              |      👍       |                                                                                    |
 | [Mixpanel Design System](https://design.mixpanel.com)                             |     👍     |      👍      |               |                                                                                    |
 | [MongoDB Design System](http://mongodb.design)                                    |     👍     |              |      👍       |                   [:octocat:](https://github.com/mongodb/design)                   |
@@ -133,7 +133,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Ray by WeWork](https://ray.wework.com)                                           |     👍     |              |               |                     [:octocat:](https://github.com/wework/ray)                     |
 | [Workday Canvas](https://design.workday.com/)                                     |     👍     |      👍      |               |                 [:octocat:](https://github.com/Workday/canvas-kit)                 |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                |     👍     |      👍      |               |                                                                                    |
-| [ZEIT](https://zeit.co/design)                                                    |     👍     |              |               |                                                                                    |  |
+| [ZEIT](https://zeit.co/design)                                                    |     👍     |              |               |                                                                                    |
 | [Zendesk Garden](https://garden.zendesk.com/)                                     |     👍     |              |               |                   [:octocat:](https://github.com/zendeskgarden)                    |
 
 ### Notes
