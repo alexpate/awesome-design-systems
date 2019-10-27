@@ -19,6 +19,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 |                                                                                   | Components | Voice & Tone | Designers Kit |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :--------------------------------------------------------------------------------: |
+| [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍      |                                                                                    |
 | [Alfa-Bank](https://design.alfabank.ru)                                           |     👍     |              |      👍       |            [:octocat:](https://github.com/alfa-laboratory/arui-feather)            |
 | [Alibaba Ant Design](https://ant.design)                                          |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/ant-design/ant-design/)               |
 | [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                         |     👍     |              |               |                  [:octocat:](https://github.com/appearhere/bloom)                  |
