@@ -19,7 +19,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 |                                                                                   | Components | Voice & Tone | Designers Kit |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :--------------------------------------------------------------------------------: |
-| [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍      |                                                                                    |
+| [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍       |                                                                                    |
 | [Alfa-Bank](https://design.alfabank.ru)                                           |     👍     |              |      👍       |            [:octocat:](https://github.com/alfa-laboratory/arui-feather)            |
 | [Alibaba Ant Design](https://ant.design)                                          |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/ant-design/ant-design/)               |
 | [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                         |     👍     |              |               |                  [:octocat:](https://github.com/appearhere/bloom)                  |
@@ -50,7 +50,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                 |     👍     |              |               |                  [:octocat:](https://github.com/cloudflare/cf-ui)                  |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
-| [Contentful Forma 36](https://f36.contentful.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/contentful/forma-36)              |
+| [Contentful Forma 36](https://f36.contentful.com/)                                |     👍     |      👍      |      👍       |                 [:octocat:](https://github.com/contentful/forma-36)                |
 | [ENGIE Fluid Design System](https://www.engie.design)                             |     👍     |              |      👍       |                                                                                    |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee)                     |     👍     |      👍      |      👍       |                                                                                    |
 | [Elastic UI Framework](https://elastic.github.io/eui/)                            |     👍     |      👍      |      👍       |                    [:octocat:](https://github.com/elastic/eui)                     |
