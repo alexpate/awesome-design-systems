@@ -19,7 +19,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 |                                                                                   | Components | Voice & Tone | Designers Kit |                                   Source code \*                                   |
 | --------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :--------------------------------------------------------------------------------: |
-| [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍      |                                                                                    |
+| [Adobe Spectrum](https://spectrum.adobe.com)                                      |            |      👍      |      👍       |                                                                                    |
 | [Alfa-Bank](https://design.alfabank.ru)                                           |     👍     |              |      👍       |            [:octocat:](https://github.com/alfa-laboratory/arui-feather)            |
 | [Alibaba Ant Design](https://ant.design)                                          |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/ant-design/ant-design/)               |
 | [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                         |     👍     |              |               |                  [:octocat:](https://github.com/appearhere/bloom)                  |
@@ -50,7 +50,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                 |     👍     |              |               |                  [:octocat:](https://github.com/cloudflare/cf-ui)                  |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
-| [Contentful Forma 36](https://f36.contentful.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/contentful/forma-36)              |
+| [Contentful Forma 36](https://f36.contentful.com/)                                |     👍     |      👍      |      👍       |                 [:octocat:](https://github.com/contentful/forma-36)                |
 | [ENGIE Fluid Design System](https://www.engie.design)                             |     👍     |              |      👍       |                                                                                    |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee)                     |     👍     |      👍      |      👍       |                                                                                    |
 | [Elastic UI Framework](https://elastic.github.io/eui/)                            |     👍     |      👍      |      👍       |                    [:octocat:](https://github.com/elastic/eui)                     |
@@ -58,6 +58,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Figma UI Components](https://figma-ui.lessmess.dev/)                             |     👍     |              |               |          [:octocat:](https://github.com/lessmess-dev/figma-ui-components)          |
 | [Financial Times Origami](https://origami.ft.com/)                                |     👍     |              |               |              [:octocat:](https://github.com/Financial-Times/origami)               |
 | [Firefox Photon Design System](https://design.firefox.com/photon)                 |     👍     |      👍      |      👍       |                  [:octocat:](https://github.com/FirefoxUX/photon)                  |
+| [Foyer Design System](https://design.foyer.lu/)                                   |     👍     |              |      👍       |                               :closed_lock_with_key:                               |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library)        |     👍     |              |               |                                                                                    |
 | [GitHub Primer](https://primer.style/)                                            |     👍     |              |      👍       |                      [:octocat:](https://github.com/primer/)                       |
 | [GitLab Design System - Pajamas](https://design.gitlab.com/)                      |     👍     |      👍      |      👍       |           [:fox_face:](https://gitlab.com/gitlab-org/design.gitlab.com)            |
