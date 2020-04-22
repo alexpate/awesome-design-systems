@@ -137,9 +137,9 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [WeWork Plasma](http://plasma.guide)                                              |     👍     |              |               |                                                                                    |
 | [Ray by WeWork](https://ray.wework.com)                                           |     👍     |              |               |                     [:octocat:](https://github.com/wework/ray)                     |
 | [Welcome UI](http://www.welcome-ui.com/)                                          |     👍     |              |               |                 [:octocat:](https://github.com/WTTJ/welcome-ui)               |
+| [Vercel](https://vercel.com/design)                                                    |     👍     |              |               |                                                                                    |
 | [Workday Canvas](https://design.workday.com/)                                     |     👍     |      👍      |               |                 [:octocat:](https://github.com/Workday/canvas-kit)                 |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                |     👍     |      👍      |               |                                                                                    |
-| [ZEIT](https://zeit.co/design)                                                    |     👍     |              |               |                                                                                    |
 | [Zendesk Garden](https://garden.zendesk.com/)                                     |     👍     |              |               |                   [:octocat:](https://github.com/zendeskgarden)                    |
 
 ### Notes
