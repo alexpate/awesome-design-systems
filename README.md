@@ -43,6 +43,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Buildit Gravity](http://style.buildit.digital/)                                  |     👍     |              |              | [:octocat:](https://github.com/buildit/gravity-ui-web) |
 | [Bulb Design System](https://design.bulb.co.uk/)                                  |     👍     |      👍      |               |                                                                                    |
 | [BuzzFeed Solid](https://solid.buzzfeed.com/)                                     |     👍     |              |      👍       |                   [:octocat:](https://github.com/buzzfeed/solid)                   |
+| [Bumbag UI](https://bumbag.style/)                                     |     👍     |              |             |                   [:octocat:](https://github.com/bumbag/bumbag-ui)                   |
 | [eBay Skin](https://ebay.github.io/skin/)                                         |     👍     |              |               |                     [:octocat:](https://github.com/eBay/skin)                      |
 | [Enigma Boundless](https://boundless.js.org/)                                     |     👍     |              |               |                [:octocat:](https://github.com/enigma-io/boundless)                 |
 | [CA Technologies Mineral UI](https://mineral-ui.com/)                             |     👍     |              |               |               [:octocat:](https://github.com/mineral-ui/mineral-ui)                |
