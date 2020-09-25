@@ -65,6 +65,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Figma UI Components](https://figma-ui.lessmess.dev/)                             |     👍     |              |               |          [:octocat:](https://github.com/lessmess-dev/figma-ui-components)          |
 | [Financial Times Origami](https://origami.ft.com/)                                |     👍     |              |               |              [:octocat:](https://github.com/Financial-Times/origami)               |
 | [Finastra Design System](https://design.fusionfabric.cloud/)                      |     👍     |              |      👍       |        [:octocat:](https://github.com/fusionfabric/finastra-design-system)         |
+| [Finland Toolbox](https://toolbox.finland.fi/)                                    |            |      👍      |      👍       |  
 | [Firefox Photon Design System](https://design.firefox.com/photon)                 |     👍     |      👍      |      👍       |                  [:octocat:](https://github.com/FirefoxUX/photon)                  |
 | [Foyer Design System](https://design.foyer.lu/)                                   |     👍     |              |      👍       |                               :closed_lock_with_key:                               |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library)        |     👍     |              |               |                                                                                    |
