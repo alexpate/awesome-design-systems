@@ -62,6 +62,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [ENGIE Fluid Design System](https://www.engie.design)                             |     👍     |              |      👍       |                                                                                    |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee)                     |     👍     |      👍      |      👍       |                                                                                    |
 | [Elastic UI Framework](https://elastic.github.io/eui/)                            |     👍     |      👍      |      👍       |                    [:octocat:](https://github.com/elastic/eui)                     |
+| [Element Plus](https://element-plus.org/#/en-US)                                     |     👍     |              |               |                   [:octocat:](https://github.com/element-plus/element-plus)                    |
 | [Evergreen](https://evergreen.surge.sh)                                           |     👍     |              |               |                [:octocat:](https://github.com/segmentio/evergreen)                 |
 | [Figma UI Components](https://figma-ui.lessmess.dev/)                             |     👍     |              |               |          [:octocat:](https://github.com/lessmess-dev/figma-ui-components)          |
 | [Financial Times Origami](https://origami.ft.com/)                                |     👍     |              |               |              [:octocat:](https://github.com/Financial-Times/origami)               |
@@ -154,7 +155,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                     |     👍     |      👍      |               |                 [:octocat:](https://github.com/Workday/canvas-kit)                 |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                |     👍     |      👍      |               |                                                                                    |
 | [Zendesk Garden](https://garden.zendesk.com/)                                     |     👍     |              |               |                   [:octocat:](https://github.com/zendeskgarden)                    |
-| [Element Plus](https://element-plus.org/#/en-US)                                     |     👍     |              |               |                   [:octocat:](https://github.com/element-plus/element-plus)                    |
 
 ### Notes
 
