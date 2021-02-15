@@ -68,7 +68,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Figma UI Components](https://figma-ui.lessmess.dev/)                             |     👍     |              |               |          [:octocat:](https://github.com/lessmess-dev/figma-ui-components)          |
 | [Financial Times Origami](https://origami.ft.com/)                                |     👍     |              |               |              [:octocat:](https://github.com/Financial-Times/origami)               |
 | [Finastra Design System](https://design.fusionfabric.cloud/)                      |     👍     |              |      👍       |        [:octocat:](https://github.com/fusionfabric/finastra-design-system)         |
-| [Finland Toolbox](https://toolbox.finland.fi/)                                    |            |      👍      |      👍       |  
+| [Finland Toolbox](https://toolbox.finland.fi/)                                    |            |      👍      |      👍       |
 | [Firefox Photon Design System](https://design.firefox.com/photon)                 |     👍     |      👍      |      👍       |                  [:octocat:](https://github.com/FirefoxUX/photon)                  |
 | [Fish Tank Design System](https://fishtank.bna.com/)                               |     👍     |      👍     |      👍       |                  [:octocat:](https://github.com/bloombergindustry/fishtank-vue)                  |
 | [Flame Design System Santander](https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander)                                   |     👍     |      👍       |      👍       |             |
@@ -153,6 +153,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [WeWork Plasma](http://plasma.guide)                                              |     👍     |              |               |                                                                                    |
 | [Ray by WeWork](https://ray.wework.com)                                           |     👍     |              |               |                     [:octocat:](https://github.com/wework/ray)                     |
 | [Welcome UI](http://www.welcome-ui.com/)                                          |     👍     |              |               |                 [:octocat:](https://github.com/WTTJ/welcome-ui)               |
+| [West Midlands Network Design System](https://designsystem.wmnetwork.co.uk/) |     👍     |     👍     |          | [:octocat:](https://github.com/wmcadigital/wmn-design-system)
 | [Vercel](https://vercel.com/design)                                                    |     👍     |              |               |                                                                                    |
 | [Workday Canvas](https://design.workday.com/)                                     |     👍     |      👍      |               |                 [:octocat:](https://github.com/Workday/canvas-kit)                 |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                |     👍     |      👍      |               |                                                                                    |
