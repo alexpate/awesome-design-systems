@@ -60,6 +60,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Contentful Forma 36](https://f36.contentful.com/)                                |     👍     |      👍      |      👍       |                 [:octocat:](https://github.com/contentful/forma-36)                |
 | [Decentraland UI](https://ui.decentraland.org/)                                               |     👍     |              |               |                  [:octocat:](https://github.com/decentraland/ui)                  |
 | [Duet](https://www.duetds.com)                                                     |     👍     |             |      👍       |                                                                                    |
+| [Duolingo](https://design.duolingo.com/)                                          |           |        👍     |               |              |
 | [ENGIE Fluid Design System](https://www.engie.design)                             |     👍     |              |      👍       |                                                                                    |
 | [Estonia Country Design Guidelines](https://brand.estonia.ee)                     |     👍     |      👍      |      👍       |                                                                                    |
 | [Elastic UI Framework](https://elastic.github.io/eui/)                            |     👍     |      👍      |      👍       |                    [:octocat:](https://github.com/elastic/eui)                     |
