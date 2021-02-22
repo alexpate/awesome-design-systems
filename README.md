@@ -58,6 +58,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
 | [Contentful Forma 36](https://f36.contentful.com/)                                |     👍     |      👍      |      👍       |                 [:octocat:](https://github.com/contentful/forma-36)                |
+| [Decathlon Design System - Vitamin](https://decathlon.design/)                    |     👍     |              |      👍       |                 [:octocat:](https://github.com/decathlon/vitamin-web)                |
 | [Decentraland UI](https://ui.decentraland.org/)                                               |     👍     |              |               |                  [:octocat:](https://github.com/decentraland/ui)                  |
 | [Duet](https://www.duetds.com)                                                     |     👍     |             |      👍       |                                                                                    |
 | [Duolingo](https://design.duolingo.com/)                                          |           |        👍     |               |              |
