@@ -141,7 +141,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Sky Toolkit](https://www.sky.com/toolkit)                                        |     👍     |              |               |                   [:octocat:](https://github.com/sky-uk/toolkit)                   |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/)          |     👍     |              |               |           [:octocat:](https://github.com/unimelb/unimelb-design-system)            |
 | [Teambition Clarity Design](https://design.teambition.com/)                       |     👍     |              |               |                                                                                    |
-| [Thumbprint](https://thumbprint.design/)                                          |     👍     |              |               |                [:octocat:](https://github.com/thumbtack/thumbprint)                |
+| [Taiga UI](https://github.com/TinkoffCreditSystems/taiga-ui/) |       👍         |           |              |              [:octocat:](https://github.com/TinkoffCreditSystems/taiga-ui) |
+| [Thumbprint](https://thumbprint.design/)                                          |     👍     |              |               |           [:octocat:](https://github.com/thumbtack/thumbprint)                |
 | [Twilio Paste](https://paste.twilio.design/)                                      |     👍     |      👍      |       👍       |                [:octocat:](https://github.com/twilio-labs/paste)                |
 | [Uber's Base Web](https://baseweb.design/)                                        |     👍     |              |               |                  [:octocat:](https://github.com/uber-web/baseui)                   |
 | [Ubuntu Vanilla framework](https://vanillaframework.io/)                          |     👍     |      👍      |      👍       |     [:octocat:](https://github.com/canonical-web-and-design/vanilla-framework)     |
