@@ -24,7 +24,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Alibaba Ant Design](https://ant.design)                                          |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/ant-design/ant-design/)               |
 | [Appear Here Styleguide](https://bloom.appearhere.co.uk/)                         |     👍     |              |               |                  [:octocat:](https://github.com/appearhere/bloom)                  |
 | [Apple Developer Design Guidelines](https://developer.apple.com/design/)          |            |              |      👍       |                                                                                    |
-| [Aragon UI](https://ui.aragon.org/)                                               |     👍     |              |               |                  [:octocat:](https://github.com/aragon/aragon-ui)                  |
+| [Aragon UI](https://ui.aragon.org/)                                               |     👍     |              |               |                  [:octocat:](https://github.com/aragon/ui)                  |
 | [Artsy Palette](https://palette.artsy.net/)                                       |     👍     |              |               |                   [:octocat:](https://github.com/artsy/palette)                    |
 | [Astro UXDS](https://astrouxds.com/)                                       |     👍     |              |      👍         |                   [:octocat:](https://github.com/RocketCommunicationsInc/astro-components)                    |
 | [AT UIKIT](https://at-ui.github.io/at-ui/#/en)                                    |     👍     |              |               |                    [:octocat:](https://github.com/at-ui/at-ui)                     |
@@ -54,7 +54,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [CBRE Blocks](https://blocks.cbrebuild.com/)                                      |     👍     |      👍      |               |                                                                                    |
 | [Cedar](https://rei.github.io/rei-cedar-docs/)                                    |     👍     |              |      👍       |                   [:octocat:](https://github.com/rei/rei-cedar)                    |
 | [censhare Zen](https://design.censhare.com/)                                    |     👍     |      👍      |               |             |
-| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui) |
+| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui) |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                 |     👍     |              |               |                  [:octocat:](https://github.com/cloudflare/cf-ui)                  |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
