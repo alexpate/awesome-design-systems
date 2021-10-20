@@ -37,6 +37,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Barnardo’s Design System](https://design-system.barnardos.org.uk)                |     👍     |      👍      |               |              [:octocat:](https://github.com/barnardos/design-system)               |
 | [Basis Design System](https://basis.now.sh)                                       |     👍     |              |               |              [:octocat:](https://github.com/moroshko/basis)                        |
 | [BBC GEL (Global Experience Language)](https://www.bbc.co.uk/gel)                 |     👍     |      👍      |      👍       |                                                                                    |
+| [BCC - Design System](https://designsystem.bccfilkom.net/)                                  |     👍     |              |      👍       |               [:octocat:](https://github.com/bccfilkom/designsystem)                       |
 | [BLiP](https://design.blip.ai/)                                                   |     👍     |              |               |                [:octocat:](https://github.com/takenet/blip-toolkit)                |
 | [Bold (Bridge Design System)](https://bold.bridge.ufsc.br/)                       |     👍     |              |      👍       |               [:octocat:](https://github.com/laboratoriobridge/bold)               |
 | [Blueprint](https://blueprintjs.com/)                                             |     👍     |              |      👍       |                 [:octocat:](https://github.com/palantir/blueprint)                 |
@@ -54,7 +55,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [CBRE Blocks](https://blocks.cbrebuild.com/)                                      |     👍     |      👍      |               |                                                                                    |
 | [Cedar](https://rei.github.io/rei-cedar-docs/)                                    |     👍     |              |      👍       |                   [:octocat:](https://github.com/rei/rei-cedar)                    |
 | [censhare Zen](https://design.censhare.com/)                                    |     👍     |      👍      |               |             |
-| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui) |
+| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui) |
+| [Clarity Design System](https://clarity.design/)                                 |     👍     |              |       👍         |                  [:octocat:](https://github.com/vmware/clarity)
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                 |     👍     |              |               |                  [:octocat:](https://github.com/cloudflare/cf-ui)                  |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
@@ -76,10 +78,13 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Flame Design System Santander](https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander)                                   |     👍     |      👍       |      👍       |             |
 | [Foyer Design System](https://design.foyer.lu/)                                   |     👍     |              |      👍       |                               :closed_lock_with_key:                               |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library)        |     👍     |              |               |                                                                                    |
+| [Foundation](https://get.foundation/)                                               |     👍     |        👍    |    👍         |                  [:octocat:] |
+
 | [GitHub Primer](https://primer.style/)                                            |     👍     |              |      👍       |                      [:octocat:](https://github.com/primer/)                       |
 | [GitLab Design System - Pajamas](https://design.gitlab.com/)                      |     👍     |      👍      |      👍       |           [:fox_face:](https://gitlab.com/gitlab-org/design.gitlab.com)            |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals)      |     👍     |      👍      |      👍       |      [:octocat:](https://github.com/material-components/material-components)       |
 | [GOV.UK Design System](https://www.gov.uk/design-system)                          |     👍     |              |               |            [:octocat:](https://github.com/alphagov/govuk-design-system)            |
+| [Halstack](https://developer.dxc.com/design/guidelines/principles/overview)       |     👍     |              |     👍        |              [:octocat:](https://github.com/dxc-technology/halstack-style-guide) 
 | [Help Scout](https://style.helpscout.com/)                                        |     👍     |      👍      |               |              [:octocat:](https://github.com/helpscout/seed-framework)              |
 | [Heroku Purple3](https://design.herokai.com/)                                     |     👍     |              |               |                                                                                    |
 | [Hewlett Packard grommet](https://grommet.github.io)                              |     👍     |              |               |                  [:octocat:](https://github.com/grommet/grommet)                   |
@@ -114,8 +119,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [NHS.UK Service Manual (Beta)](https://beta.nhs.uk/service-manual/)               |     👍     |      👍      |               |                                                                                    |
 | [Nordnet](https://brand.nordnet.se/)                                          |     👍     |      👍      |               |                                                                                    |
 | [Nutanix Prism](https://nutanix.design/)                                          |     👍     |              |               |                                                                                    |
-| [Office UI Fabric](https://dev.office.com/fabric)                                 |     👍     |      👍      |      👍       |          [:octocat:](https://github.com/OfficeDev/office-ui-fabric-react)          |
 | [Okta Odyssey Design System](https://odyssey.okta.design)                                 |     👍     |             |      👍       |          [:octocat:](https://github.com/okta/odyssey)          |
+| [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)                      |     👍     |      👍      |      👍       |          [:octocat:](https://github.com/microsoft/fluentui)          |
 | [Opattern](https://ux.opower.com/opattern)                                        |     👍     |      👍      |               |                                                                                    |
 | [Oracle Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html)  |     👍     |              |               |                                                                                    |
 | [Mail.ru Group Paradigm](https://design.mail.ru/)                                 |     👍     |      👍      |      👍       |                                                                                    |
@@ -146,6 +151,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Teambition Clarity Design](https://design.teambition.com/)                       |     👍     |              |               |                                                                                    |
 | [Telefónica Mística](https://brandfactory.telefonica.com/mistica)                       |     👍     |              |       👍       |          [:octocat:](https://github.com/Telefonica/mistica)                                                                            |
 | [Thumbprint](https://thumbprint.design/)                                          |     👍     |              |               |                [:octocat:](https://github.com/thumbtack/thumbprint)                |
+| [Tizen CircularUI](https://developer.samsung.com/one-ui-watch-tizen)                                          |     👍     |              |      👍       |                [:octocat:](https://github.com/Samsung/Tizen.CircularUI)                |
 | [Twilio Paste](https://paste.twilio.design/)                                      |     👍     |      👍      |       👍       |                [:octocat:](https://github.com/twilio-labs/paste)                |
 | [Uber's Base Web](https://baseweb.design/)                                        |     👍     |              |               |                  [:octocat:](https://github.com/uber-web/baseui)                   |
 | [Ubuntu Vanilla framework](https://vanillaframework.io/)                          |     👍     |      👍      |      👍       |     [:octocat:](https://github.com/canonical-web-and-design/vanilla-framework)     |
