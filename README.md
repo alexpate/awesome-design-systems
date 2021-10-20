@@ -78,6 +78,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Flame Design System Santander](https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander)                                   |     👍     |      👍       |      👍       |             |
 | [Foyer Design System](https://design.foyer.lu/)                                   |     👍     |              |      👍       |                               :closed_lock_with_key:                               |
 | [FutureLearn Pattern Library](https://www.futurelearn.com/pattern-library)        |     👍     |              |               |                                                                                    |
+| [Foundation](https://get.foundation/)                                               |     👍     |        👍    |    👍         |                  [:octocat:] |
+
 | [GitHub Primer](https://primer.style/)                                            |     👍     |              |      👍       |                      [:octocat:](https://github.com/primer/)                       |
 | [GitLab Design System - Pajamas](https://design.gitlab.com/)                      |     👍     |      👍      |      👍       |           [:fox_face:](https://gitlab.com/gitlab-org/design.gitlab.com)            |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals)      |     👍     |      👍      |      👍       |      [:octocat:](https://github.com/material-components/material-components)       |
