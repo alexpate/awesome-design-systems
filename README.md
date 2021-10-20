@@ -55,7 +55,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [CBRE Blocks](https://blocks.cbrebuild.com/)                                      |     👍     |      👍      |               |                                                                                    |
 | [Cedar](https://rei.github.io/rei-cedar-docs/)                                    |     👍     |              |      👍       |                   [:octocat:](https://github.com/rei/rei-cedar)                    |
 | [censhare Zen](https://design.censhare.com/)                                    |     👍     |      👍      |               |             |
-| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui) |
+| [Chakra UI](https://chakra-ui.com/)                                               |     👍     |              |               | [:octocat:](https://github.com/chakra-ui/chakra-ui) |
 | [Cloudflare](https://cloudflare.github.io/cf-ui/)                                 |     👍     |              |               |                  [:octocat:](https://github.com/cloudflare/cf-ui)                  |
 | [City of Boston Fleet](https://github.com/CityOfBoston/digital/wiki/Fleet)        |     👍     |      👍      |               |                [:octocat:](https://github.com/CityOfBoston/digital)                |
 | [Co-op Design Manual](https://coop-design-manual.herokuapp.com/)                  |     👍     |      👍      |      👍       |             [:octocat:](https://github.com/coopdigital/design-system)              |
