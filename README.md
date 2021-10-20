@@ -83,6 +83,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [GitLab Design System - Pajamas](https://design.gitlab.com/)                                                   |     👍     |      👍      |      👍       |         [:fox_face:](https://gitlab.com/gitlab-org/design.gitlab.com)         |
 | [Google Material Design](https://material.io/guidelines/#introduction-goals)                                   |     👍     |      👍      |      👍       |    [:octocat:](https://github.com/material-components/material-components)    |
 | [GOV.UK Design System](https://www.gov.uk/design-system)                                                       |     👍     |              |               |         [:octocat:](https://github.com/alphagov/govuk-design-system)          |
+| [Gympass Yoga](https://gympass.github.io/yoga/)                                                                |     👍     |      👍      |               |                 [:octocat:](https://github.com/gympass/yoga)                  |
 | [Halstack](https://developer.dxc.com/design/guidelines/principles/overview)                                    |     👍     |              |      👍       |      [:octocat:](https://github.com/dxc-technology/halstack-style-guide)      |
 | [Help Scout](https://style.helpscout.com/)                                                                     |     👍     |      👍      |               |           [:octocat:](https://github.com/helpscout/seed-framework)            |
 | [Heroku Purple3](https://design.herokai.com/)                                                                  |     👍     |              |               |                                                                               |
@@ -170,7 +171,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                                                  |     👍     |      👍      |               |              [:octocat:](https://github.com/Workday/canvas-kit)               |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
-| [Gympass Yoga](https://gympass.github.io/yoga/)                                                                |     👍     |      👍      |               |                 [:octocat:](https://github.com/gympass/yoga)                  |
 
 ### Notes
 
