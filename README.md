@@ -119,6 +119,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [NHS.UK Service Manual (Beta)](https://beta.nhs.uk/service-manual/)               |     👍     |      👍      |               |                                                                                    |
 | [Nordnet](https://brand.nordnet.se/)                                          |     👍     |      👍      |               |                                                                                    |
 | [Nutanix Prism](https://nutanix.design/)                                          |     👍     |              |               |                                                                                    |
+| [Okta Odyssey Design System](https://odyssey.okta.design)                                 |     👍     |             |      👍       |          [:octocat:](https://github.com/okta/odyssey)          |
 | [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)                      |     👍     |      👍      |      👍       |          [:octocat:](https://github.com/microsoft/fluentui)          |
 | [Opattern](https://ux.opower.com/opattern)                                        |     👍     |      👍      |               |                                                                                    |
 | [Oracle Alta UI](https://www.oracle.com/webfolder/ux/middleware/alta/index.html)  |     👍     |              |               |                                                                                    |
