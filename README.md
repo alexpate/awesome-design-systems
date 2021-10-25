@@ -141,6 +141,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Stacks – Stack Overflow](https://stackoverflow.design/)                          |     👍     |      👍      |               |                [:octocat:](https://github.com/StackExchange/Stacks)                |
 | [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/)   |     👍     |              |               |                                                                                    |
 | [Sky Toolkit](https://www.sky.com/toolkit)                                        |     👍     |              |               |                   [:octocat:](https://github.com/sky-uk/toolkit)                   |
+| [Tailwind CSS](https://tailwindcss.com/)                                          |     👍     |      👍      |      👍       |                   [:octocat:](https://github.com/tailwindlabs/tailwindcss)                    |
 | [The University of Melbourne Design System](https://web.unimelb.edu.au/)          |     👍     |              |               |           [:octocat:](https://github.com/unimelb/unimelb-design-system)            |
 | [Teambition Clarity Design](https://design.teambition.com/)                       |     👍     |              |               |                                                                                    |
 | [Telefónica Mística](https://brandfactory.telefonica.com/mistica)                       |     👍     |              |       👍       |          [:octocat:](https://github.com/Telefonica/mistica)                                                                            |
@@ -164,7 +165,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                |     👍     |      👍      |               |                                                                                    |
 | [Zendesk Garden](https://garden.zendesk.com/)                                     |     👍     |              |               |                   [:octocat:](https://github.com/zendeskgarden)                    |
 | [Gympass Yoga](https://gympass.github.io/yoga/)                                     |     👍     |      👍              |               |                   [:octocat:](https://github.com/gympass/yoga)                    |
-| [Tailwind CSS](https://tailwindcss.com/)                                          |     👍     |      👍      |      👍       |                   [:octocat:](https://github.com/tailwindlabs/tailwindcss)                    |
+
 
 ### Notes
 
