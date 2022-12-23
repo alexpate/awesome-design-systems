@@ -173,7 +173,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                                                  |     👍     |      👍      |               |              [:octocat:](https://github.com/Workday/canvas-kit)               |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
-
+| [Materialize CSS](https://materializecss.com/)                                                              |     👍     |              |      👍       |                [:octocat:](https://github.com/Dogfalo/materialize)                |
 ### Notes
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
