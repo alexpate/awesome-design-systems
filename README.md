@@ -183,7 +183,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
 
-Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three.
+Although 'design systems', 'ui libraries', and 'pattern libraries' are different things, they are often used interchangeably. This list contains all three. Moreover if you wish to have a step by step guide to system-design then visit [System Design Roadmap](https://roadmap.sh/system-design)
 
 ### Credits
 
