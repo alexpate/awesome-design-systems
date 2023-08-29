@@ -49,6 +49,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Bulb Design System](https://design.bulb.co.uk/)                                                               |     👍     |      👍      |               |                                                                               |
 | [Bumbag UI](https://bumbag.style/)                                                                             |     👍     |              |               |               [:octocat:](https://github.com/bumbag/bumbag-ui)                |
 | [BuzzFeed Solid](https://solid.buzzfeed.com/)                                                                  |     👍     |              |      👍       |                [:octocat:](https://github.com/buzzfeed/solid)                 |
+| [Buzzvil Design System](https://design.buzzvil.com/)                              |     👍     |      👍      |             |                                                                                    |
 | [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)                                                  |     👍     |              |               |             [:octocat:](https://github.com/mineral-ui/mineral-ui)             |
 | [Cards Binary Design](https://github.com/opensource-cards/binary-ui)                                           |     👍     |      👍      |      👍       |          [:octocat:](https://github.com/opensource-cards/binary-ui)           |
 | [CBRE Blocks](https://blocks.cbrebuild.com/)                                                                   |     👍     |      👍      |               |                                                                               |
@@ -179,6 +180,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
 | [Materialize CSS](https://materializecss.com/)                                                              |     👍     |              |      👍       |                [:octocat:](https://github.com/Dogfalo/materialize)                |
+
 ### Notes
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
