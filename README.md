@@ -181,6 +181,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
 | [Materialize CSS](https://materializecss.com/)                                                              |     👍     |              |      👍       |                [:octocat:](https://github.com/Dogfalo/materialize)                |
+| [Material Minimal](https://material-minimal.com/)                                                              |     👍     |      👍      |      👍       |                [:octocat:](https://github.com/mdbootstrap/mdb-ui-kit)                |
 
 ### Notes
 
