@@ -117,6 +117,9 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mailchimp Patterns](https://ux.mailchimp.com/patterns)                                                        |     👍     |              |               |                                                                               |
 | [Mantine](https://mantine.dev/)                                                                                |     👍     |              |               |              [:octocat:](https://github.com/mantinedev/mantine)               |
 | [Marvel Styleguide](https://marvelapp.com/styleguide)                                                          |     👍     |              |               |                                                                               |
+| [Materialize CSS](https://materializecss.com/)                                                              |     👍     |              |      👍       |                [:octocat:](https://github.com/Dogfalo/materialize)                |
+| [Material Minimal](https://material-minimal.com/)                                                              |     👍     |      👍      |      👍       |                [:octocat:](https://github.com/mdbootstrap/mdb-ui-kit)                |
+| [Material UI](https://mui.com/material-ui/)                                                              |     👍     |      👍      |      👍       |                [:octocat:](https://github.com/mui/material-ui)                |
 | [Meetup Swarm](https://meetup.github.io/swarm-design-system/)                                                  |     👍     |      👍      |      👍       |          [:octocat:](https://github.com/meetup/swarm-design-system/)          |
 | [Mesh Design System](https://www.meshdesignsystem.com/)                                                        |     👍     |              |      👍       |                                                                               |
 | [Mesosphere CNVS](https://mesosphere.github.io/cnvs/)                                                          |     👍     |              |               |               [:octocat:](https://github.com/mesosphere/cnvs/)                |
@@ -188,8 +191,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                                                  |     👍     |      👍      |               |              [:octocat:](https://github.com/Workday/canvas-kit)               |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
-| [Materialize CSS](https://materializecss.com/)                                                              |     👍     |              |      👍       |                [:octocat:](https://github.com/Dogfalo/materialize)                |
-| [Material Minimal](https://material-minimal.com/)                                                              |     👍     |      👍      |      👍       |                [:octocat:](https://github.com/mdbootstrap/mdb-ui-kit)                |
 
 ### Notes
 
