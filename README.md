@@ -187,7 +187,11 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Twilio Paste](https://paste.twilio.design/)                                                                   |     👍     |      👍      |      👍       |               [:octocat:](https://github.com/twilio-labs/paste)               |
 | [Uber's Base Web](https://baseweb.design/)                                                                     |     👍     |              |               |                [:octocat:](https://github.com/uber-web/baseui)                |
 | [Ubuntu Vanilla framework](https://vanillaframework.io/)                                                       |     👍     |      👍      |      👍       |  [:octocat:](https://github.com/canonical-web-and-design/vanilla-framework)   |
+
 | [Uiverse](https://uiverse.io)                                   |     👍     |       👍      |      👍       |             [:octocat:](https://github.com/uiverse-io/galaxy)              |
+
+| [Untitled UI](https://www.untitledui.com/react/)                                                               |     👍     |              |      👍       |  [:octocat:](https://github.com/untitleduico/react/)   |
+
 | [USPTO UI Design Library](https://uspto.github.io/designpatterns/index.html)                                   |     👍     |              |      👍       |             [:octocat:](https://github.com/uspto/designpatterns)              |
 | [uSwitch style guide](https://ustyle.guide/)                                                                   |     👍     |      👍      |               |                [:octocat:](https://github.com/uswitch/ustyle)                 |
 | [U.S. Web Design Standards](https://designsystem.digital.gov/)                                                 |     👍     |      👍      |      👍       |                  [:octocat:](https://github.com/uswds/uswds)                  |
