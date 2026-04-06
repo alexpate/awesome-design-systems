@@ -215,4 +215,5 @@ Although 'design systems', 'ui libraries', and 'pattern libraries' are different
 
 ### Credits
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts implementing design system patterns for multi-agent orchestration with consistent delegation and quality gates. MIT licensed.
 Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project
