@@ -207,6 +207,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=alexpate_awesome-design-systems) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ### Notes
 
 \*_Projects marked as open source may not always be open to use. Always check the license of these projects before using them._
