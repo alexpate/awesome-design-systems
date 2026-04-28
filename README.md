@@ -207,6 +207,9 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                                                  |     👍     |      👍      |               |              [:octocat:](https://github.com/Workday/canvas-kit)               |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                                             |     👍     |      👍      |               |                                                                               |
 | [Zendesk Garden](https://garden.zendesk.com/)                                                                  |     👍     |              |               |                 [:octocat:](https://github.com/zendeskgarden)                 |
+| [Shadcn Space](https://shadcnspace.com/)                                                                       |     👍     |              |      👍       |     [:octocat:](https://github.com/shadcnspace/shadcnspace)                   
+| [Tailwindadmin](https://tailwind-admin.com/)                                                                   |     👍     |              |      👍       |     [:octocat:](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) |
+                                    
 
 ### Notes
 
