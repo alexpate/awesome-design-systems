@@ -118,6 +118,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Monzo Tone of Voice](https://monzo.com/tone-of-voice/)                            |            |      👍      |               |                                                                                                        |
 | [Morningstar Design System](http://designsystem.morningstar.com/)                  |     👍     |      👍      |      👍       |                                                                                                        |
 | [Mozilla Protocol](https://protocol.mozilla.org/)                                  |     👍     |              |               |                            [:octocat:](https://github.com/mozilla/protocol)                            |
+| [Namer UI](https://namer-ui.vercel.app/)                                           |     👍     |              |               |                          [:octocat:](https://github.com/Northstrix/namer-ui)                           |
 | [NASA Web Design System](https://nasa.github.io/nasawds-site/)                     |     👍     |              |               |                              [:octocat:](https://github.com/nasa/nasawds)                              |
 | [NationBuilder Radius](https://www.nationbuilder.design/)                          |     👍     |              |               |                                                                                                        |
 | [NHS.UK Service Manual](https://service-manual.nhs.uk/)                            |     👍     |      👍      |               |                                                                                                        |
@@ -182,7 +183,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                      |     👍     |      👍      |               |                           [:octocat:](https://github.com/Workday/canvas-kit)                           |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                 |     👍     |      👍      |               |                                                                                                        |
 | [Zendesk Garden](https://garden.zendesk.com/)                                      |     👍     |              |               |                             [:octocat:](https://github.com/zendeskgarden)                              |
-| [Namer UI](https://namer-ui.vercel.app/)                                           |     👍     |              |               |                          [:octocat:](https://github.com/Northstrix/namer-ui)                           |
 
 ### Notes
 
