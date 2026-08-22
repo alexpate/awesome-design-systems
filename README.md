@@ -15,7 +15,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
 - Source code: Publicly viewable source code
 
---
+---
 
 |                                                                                    | Components | Voice & Tone | Designers Kit |                                             Source code \*                                             |
 | ---------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
