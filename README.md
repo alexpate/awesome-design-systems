@@ -100,6 +100,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Material Minimal](https://material-minimal.com/)                                  |     👍     |      👍      |      👍       |                         [:octocat:](https://github.com/mdbootstrap/mdb-ui-kit)                         |
 | [Materialize CSS](https://materializecss.com/)                                     |     👍     |              |      👍       |                          [:octocat:](https://github.com/Dogfalo/materialize)                           |
 | [Mesh Design System](https://www.meshdesignsystem.com/)                            |     👍     |              |      👍       |                                                                                                        |
+| [Meta Astryx](https://astryx.atmeta.com/)                                          |     👍     |      👍      |      👍       |                            [:octocat:](https://github.com/facebook/astryx)                             |
 | [Microsoft Fluent](https://www.microsoft.com/design/fluent/)                       |     👍     |              |      👍       |                           [:octocat:](https://github.com/microsoft/fluentui)                           |
 | [Mixpanel Design System](https://design.mixpanel.com)                              |     👍     |      👍      |               |                                                                                                        |
 | [MongoDB Design System](http://mongodb.design)                                     |     👍     |              |      👍       |                         [:octocat:](https://github.com/mongodb/leafygreen-ui)                          |
@@ -164,7 +165,6 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Workday Canvas](https://design.workday.com/)                                      |     👍     |      👍      |               |                           [:octocat:](https://github.com/Workday/canvas-kit)                           |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                 |     👍     |      👍      |               |                                                                                                        |
 | [Zendesk Garden](https://garden.zendesk.com/)                                      |     👍     |              |               |                             [:octocat:](https://github.com/zendeskgarden)                              |
-| [Meta](https://astryx.atmeta.com/)                                      |     👍     |        👍      |        👍       |                             [:octocat:]([https://github.com/zendeskgarden](https://github.com/facebook/astryx))                              |
 
 ### Notes
 
