@@ -168,6 +168,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Wix Style React](https://www.wix-style-react.com/storybook/)                      |     👍     |              |               |                                                                                                        |
 | [Vercel](https://vercel.com/geist)                                                 |     👍     |              |               |                                                                                                        |
 | [Workday Canvas](https://design.workday.com/)                                      |     👍     |      👍      |               |                           [:octocat:](https://github.com/Workday/canvas-kit)                           |
+| [WunderUI](https://wunderui.com/)                                                  |     👍     |      👍      |       👍       |                           [:octocat:](https://github.com/wunder-ui/wunderui)                           |
 | [Yelp Styleguide](https://www.yelp.com/styleguide)                                 |     👍     |      👍      |               |                                                                                                        |
 | [Zendesk Garden](https://garden.zendesk.com/)                                      |     👍     |              |               |                             [:octocat:](https://github.com/zendeskgarden)                              |
 
