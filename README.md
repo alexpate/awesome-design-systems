@@ -180,3 +180,4 @@ Although 'design systems', 'ui libraries', and 'pattern libraries' are different
 ### Credits
 
 Cover icon: 'Solar System' by Andrejs Kirma from the Noun Project
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimal macOS interface design system with dynamic dominant color extraction.
