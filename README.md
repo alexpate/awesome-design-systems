@@ -19,6 +19,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 |                                                                                    | Components | Voice & Tone | Designers Kit |                                             Source code \*                                             |
 | ---------------------------------------------------------------------------------- | :--------: | :----------: | :-----------: | :----------------------------------------------------------------------------------------------------: |
+| [7onic Design System](https://7onic.design)                                        |     👍     |             |               |                              [:octocat:](https://github.com/itonys/7onic)                              |
 | [Aalto University](https://brand.aalto.fi/)                                        |     👍     |      👍      |      👍       |                                                                                                        |
 | [Adobe Spectrum](https://spectrum.adobe.com)                                       |     👍     |      👍      |      👍       |                          [:octocat:](https://github.com/adobe/react-spectrum)                          |
 | [Adjust Atlas](https://atlas.adeven.com)                                           |     👍     |      👍      |      👍       |                                                                                                        |
